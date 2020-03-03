@@ -1,1 +1,0 @@
-I used xampp to run my PWA in the Localhost
