@@ -14,7 +14,7 @@ const  urlsToCache = [
     './img/Origen.png',
     './img/favicon.png',
     './index.html',
-    'http://api.openweathermap.org/data/2.5/weather?lat=19.7006&lon=-101.186&appid=dd40cd5feabb831330b03c42ba1e4f3f'
+    'https://api.openweathermap.org/data/2.5/weather?lat=19.7006&lon=-101.186&appid=dd40cd5feabb831330b03c42ba1e4f3f'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos

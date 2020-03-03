@@ -8,7 +8,7 @@ function getDataFromNetwork(url){
     .then(data => {
         cache=data
 
-        var iconUrl = `http://openweathermap.org/img/wn/${data.weather[0].icon}@2x.png`
+        var iconUrl = `https://openweathermap.org/img/wn/${data.weather[0].icon}@2x.png`
 
         let city=document.getElementById('city')
         city.innerHTML=`
