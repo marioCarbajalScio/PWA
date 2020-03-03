@@ -1,5 +1,4 @@
-//var url='https://jsonplaceholder.typicode.com/posts'
-var url='http://api.openweathermap.org/data/2.5/weather?lat=19.7006&lon=-101.186&appid=dd40cd5feabb831330b03c42ba1e4f3f'
+var url='https://api.openweathermap.org/data/2.5/weather?lat=19.7006&lon=-101.186&appid=dd40cd5feabb831330b03c42ba1e4f3f'
 
 let cache=[]
 
